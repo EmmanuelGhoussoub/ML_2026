@@ -4,3 +4,4 @@ data_parquet_2026/
 
 # Ou ignorer tous les fichiers parquet d'un coup
 *.parquet
+*.csv
