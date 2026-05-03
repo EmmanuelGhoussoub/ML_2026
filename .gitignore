@@ -1,0 +1,6 @@
+# Ignorer le dossier de données
+ML_2026/
+data_parquet_2026/
+
+# Ou ignorer tous les fichiers parquet d'un coup
+*.parquet
